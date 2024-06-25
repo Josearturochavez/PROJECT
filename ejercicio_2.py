@@ -7,5 +7,4 @@ def encontrar_primo(limite_superior):
                 break
         if es_primo == True:
             print(i)
-
 encontrar_primo(int(input("dame el limite superior: ")))
